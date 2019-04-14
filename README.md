@@ -1,3 +1,1 @@
-# javaUtils
-java code for folders work
-this is a repository for utils that needed for folders
+this code places imdb images based on person in seperate folders
